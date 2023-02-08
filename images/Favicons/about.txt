@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Josefin Slab
+- Font Author: Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.
+- Font Source: http://fonts.gstatic.com/s/josefinslab/v20/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvQT09L4KZAyK43w.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
